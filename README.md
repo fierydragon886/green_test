@@ -5,6 +5,7 @@
 
 自动保持 GitHub 提交状态常绿。
 
+
 > a commit a day keeps your girlfriend away.
 
 ## 原理
